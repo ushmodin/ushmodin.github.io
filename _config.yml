@@ -1,5 +1,6 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: Jast Another Java Blog 
+title: JAJB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ushmodin.github.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
