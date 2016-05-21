@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Java 8 Streams / SQL
+tags:
+  - java
+  - stream-api
+  - sql
+main-class: stream-api
+categories: 
+  - stream-api
 ---
 
 **Друзья, всем привет!**
