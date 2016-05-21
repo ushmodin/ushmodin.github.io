@@ -8,6 +8,7 @@ tags:
 main-class: stream-api
 categories: 
   - stream-api
+introduction: Что общего у Stream-API и SQL
 ---
 
 **Друзья, всем привет!**
